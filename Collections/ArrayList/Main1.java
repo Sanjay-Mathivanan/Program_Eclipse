@@ -44,7 +44,7 @@ public class Main1 {
             }
         }
 
-        scan.close();
+ 
     }
 
     public static void printInstructions() {
